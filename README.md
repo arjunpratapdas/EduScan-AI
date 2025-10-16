@@ -1,24 +1,46 @@
-# Welcome to your Lovable project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/1c63e4da-6782-4fef-94ee-b34b9740cc05
+🤖 EduScan AI - Free Accessibility Scanner
+[![License: MIT](https://img.shields.ome Extension](https://img.shields.io/badge5](https://img.shields.io/badge/EduHacks-AIeducation accessible for everyone with real-time AI-powered accessibility scanning.**
 
-## How can I edit this code?
+🌟 What is EduScan AI?
+EduScan AI is a free Chrome extension that instantly checks educational websites for accessibility problems. It helps teachers create inclusive content and ensures students with disabilities can access learning materials.
 
-There are several ways of editing your application.
+With just one click, EduScan scans any webpage and identifies issues like:
 
-**Use Lovable**
+Missing image descriptions (alt text)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1c63e4da-6782-4fef-94ee-b34b9740cc05) and start prompting.
+Poor heading structure
 
-Changes made via Lovable will be committed automatically to this repo.
+Low color contrast
 
-**Use your preferred IDE**
+Unclear link text
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Forms without proper labels
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Missing language tags
+
+It also uses AI (OCR technology) to read text inside images and suggests better descriptions to make content screen-reader friendly.
+
+✨ Key Features
+✅ Real-time scanning of any educational webpage
+
+🤖 AI-powered image analysis using Tesseract.js OCR
+
+📊 Instant accessibility score (0-100) with detailed breakdown
+
+👁️ Visual highlighting of issues directly on the page
+
+📥 Export reports as JSON for documentation
+
+🌓 Dark/light mode with smooth animations
+
+🆓 100% free - no subscriptions or API costs
+
+🔒 Privacy-focused - all analysis happens locally in your browser
+
+
 
 Follow these steps:
 
