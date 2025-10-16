@@ -2,7 +2,6 @@
 ## Project info
 
 🤖 EduScan AI - Free Accessibility Scanner
-[![License: MIT](https://img.shields.ome Extension](https://img.shields.io/badge5](https://img.shields.io/badge/EduHacks-AIeducation accessible for everyone with real-time AI-powered accessibility scanning.**
 
 🌟 What is EduScan AI?
 EduScan AI is a free Chrome extension that instantly checks educational websites for accessibility problems. It helps teachers create inclusive content and ensures students with disabilities can access learning materials.
